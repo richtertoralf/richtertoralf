@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Toralf and snowgames95 is an experiment sandbox to play.
 - 👀 I’m interested in projects in the field of sports.
-- 🌱 I’m currently learning web development, e.g. JavaScript, Node.js, PHP, SQL and NoSQL, as well as Python, C#, Java and shell programming.
+- 🌱 I’m currently studying web development, e.g. JavaScript, Node.js, PHP, SQL and NoSQL, as well as Python, C#, Java and shell programming.
 - 💞️ My schedule is very busy. But I’m always excited for new projects!
 - 📫 You can reach me by email or facebook messenger. Google helps: "Toralf Richter Sayda".
 
