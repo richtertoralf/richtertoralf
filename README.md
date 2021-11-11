@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Toralf and snowgames95 is an experiment sandbox to play.
+- 👋 Hello, I am Toralf and this is my experiment sandbox to test and play.
 - 👀 I’m interested in projects in the field of sports.
 - 🌱 I’m currently studying web development, e.g. JavaScript, Node.js, PHP, SQL and NoSQL, as well as Python, C#, Java and shell programming.
 - 💞️ My schedule is very busy. But I’m always excited for new projects!
