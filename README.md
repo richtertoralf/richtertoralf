@@ -1,10 +1,15 @@
-- 👋 Hello, I am Toralf and this is my experiment sandbox to test and play.
-- 👀 I’m interested in projects in the field of sports.
-- 🌱 I’m currently studying web development, e.g. JavaScript, Node.js, PHP, SQL and NoSQL, as well as Python, C#, Java and shell programming. And I learn Linux every day.
-- 💞️ My schedule is very busy. But I’m always excited for new projects!
-- 📫 You can reach me by email or facebook messenger. Google helps: "Toralf Richter Sayda".
+👋 Hi, I’m Toralf Richter.
 
-<!---
-snowgames95/snowgames95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work at the intersection of **live sports production, streaming technology and automation**.
+My background combines hands-on event production with Linux-based infrastructure and open-source tooling.
+
+**Focus areas**
+- Live streaming (SRT, RTMP, WebRTC, HLS)
+- Media servers (MediaMTX, FFmpeg, OBS, vMix)
+- Monitoring & automation
+- Linux, systemd, shell & Python, JavaScript
+
+I enjoy building **pragmatic, low-cost solutions** for real-world production setups –
+from Raspberry Pi to cloud servers.
+
+📫 Contact: (search: *Toralf Richter Sayda*)
